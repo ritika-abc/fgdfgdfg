@@ -3854,3 +3854,27 @@ ol {
 		height: 250px;
 	}
 }
+
+.service-item{
+	/* border: 1px dashed rgb(224, 224, 224); */
+	border-radius: 10px;
+	height: 100%;
+	overflow: hidden;
+	transition: 0.5s;
+	transform: translateY(0px);
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+
+}
+.service-item:hover{
+	transform: translateY(-20px);
+	/* border: 1px dashed rgb(92, 5, 5); */
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
+.single-fruits-choose {
+    display: flex
+;
+    gap: 5px;
+}
+.single-fruits-choose{
+	margin: 20px 0px;
+}
