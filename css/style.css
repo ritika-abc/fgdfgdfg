@@ -3878,3 +3878,6 @@ ol {
 .single-fruits-choose{
 	margin: 20px 0px;
 }
+ .text-md-start{
+	text-align: start !important;
+ }
