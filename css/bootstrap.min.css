@@ -7358,7 +7358,7 @@ button.bg-warning:hover {
 }
 
 .bg-danger {
-    background-color: #6b0a0a !important
+    background-color: #dc3545 !important
 }
 
 a.bg-danger:focus,
@@ -11216,7 +11216,7 @@ a.text-secondary:hover {
 }
 
 .text-success {
-    color: #398400 !important
+    color: #28a745 !important
 }
 
 a.text-success:focus,
@@ -11243,7 +11243,7 @@ a.text-warning:hover {
 }
 
 .text-danger {
-    color: #ac0b0b!important
+    color: #e53637!important
 }
 
 a.text-danger:focus,
